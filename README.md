@@ -7,7 +7,3 @@ Este repositório contém exemplos em Python utilizando **OpenCV** e **Matplotli
 - OpenCV (`opencv-python`)
 - Matplotlib
 
-## 📌 Como Executar
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
